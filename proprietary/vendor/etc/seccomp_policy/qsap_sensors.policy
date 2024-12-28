@@ -80,3 +80,4 @@ recvmsg: 1
 
 # added for get gid
 getgid: 1
+gettid: 1

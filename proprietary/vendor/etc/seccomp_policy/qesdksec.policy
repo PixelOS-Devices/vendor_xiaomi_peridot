@@ -70,3 +70,5 @@ getgid: 1
 
 #added for set thread pool
 setpriority: 1
+
+gettid: 1
